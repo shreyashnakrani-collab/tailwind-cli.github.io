@@ -31,3 +31,12 @@ enter
     "start":"npx @tailwindcss/cli -i ./input.css -o ./output.css --watch"
   }
 9.index.html(copy)-<link rel="stylesheet" href="./output.css">
+
+
+---how many  branch  in repo
+git branch 
+git branch <branch name >
+ex.git branch development 
+git branch 
+git checkout <CHECKOUT NAME >
+ex.git checkout development
